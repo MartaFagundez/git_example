@@ -6,3 +6,12 @@ body{
     padding: 0px;
 }
 
+.container{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+.container section{
+    margin-bottom: 20px;
+    border: 1px solid darkslategray;
+}

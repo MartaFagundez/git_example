@@ -6,3 +6,18 @@ body{
     padding: 0px;
 }
 
+nav {
+    background-color: darkcyan;
+    padding: 10px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+
+}
+li {
+    display: inline;
+    margin-right: 20px;
+    font-weight: bold;
+    color: aliceblue;
+}
